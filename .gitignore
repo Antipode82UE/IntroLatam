@@ -1,0 +1,11 @@
+*.pdb
+/Saved
+/Intermediate/TargetInfo.json
+/Intermediate/AssetRegistryCache
+/Intermediate/Build
+/Intermediate/Config
+/Intermediate/ReimportCache
+/Intermediate/CachedAssetRegistry.bin
+/Intermediate/ProjectFiles/IntroLatam2.vcxproj.user
+/Intermediate/ProjectFiles/UE4.vcxproj.user
+.vs
